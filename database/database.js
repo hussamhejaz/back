@@ -4,8 +4,8 @@ const mysql = require('mysql');
     {
         host: "localhost",
         user: "root",
-        password:"password",
-        database : "school"
+        password:"",
+        database : ""
     }
 )
 module.exports = con
